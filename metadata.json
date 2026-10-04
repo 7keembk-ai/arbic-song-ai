@@ -1,0 +1,7 @@
+{
+  "name": "ميدان راب AI - Meydan Rap",
+  "description": "منصة بث موسيقي ومسابقات شهرية ومواجهات دسّات لأغاني الراب المولّدة بالذكاء الاصطناعي معمارية صفرية التكلفة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
